@@ -3,6 +3,8 @@
 	Quixotic for GTK</a>
   </h1>
   
+  <p align="center"><img width="75%" src="https://github.com/QuixoticCS/quixotic-terms/blob/main/assets/terminal.svg"/></p>
+  
   ## Installation
   1. Download the archive of your desired theme flavor from the [releases](https://github.com/QuixoticCS/quixotic-gtk/releases/tag/v0.1.0) page
   2. Extract archive into ~/.themes
